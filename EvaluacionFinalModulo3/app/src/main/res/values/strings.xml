@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">EvaluacionFinalModulo3</string>
+    <string name="txt_dato1">Usuario</string>
+    <string name="txt_pass1">Password</string>
+    <string name="button_iniciar">Iniciar sesion</string>
+    <string name="txt_menu">Menu</string>
+    <string name="button_divisas">Divisas</string>
+    <string name="button_multas">Multas</string>
+    <string name="button_seguros">Seguros</string>
+    <string name="button_salir1">Salir</string>
+    <string name="txt_valor1">$0</string>
+    <string name="button_nuevoCambio">Nuevo</string>
+    <string name="button_convertir">Convertir</string>
+    <string name="button_volver2">volver</string>
+    <string name="txt_dni">DNI</string>
+    <string name="txt_nombre">Nombre</string>
+    <string name="txt_sueldo">Sueldo Minimo</string>
+    <string name="button_nuevo2">Nuevo</string>
+    <string name="button_calcular">Calcular</string>
+    <string name="button_volver3">volver</string>
+    <string name="txt_total">Total a pagar</string>
+    <string name="txt_propietario">Propietario</string>
+    <string name="txt_valorAuto">Valor del automovil</string>
+    <string name="txt_modelo">Modelo del auto</string>
+    <string name="txt_edad">Edad del propietario</string>
+    <string name="checkbox1">Modelo A</string>
+    <string name="checkbox2">Modelo B</string>
+    <string name="checkbox3">Modelo C</string>
+    <string name="radiobutton1">de 18 a 23 años</string>
+    <string name="radiobutton2">de 24 a 52 años</string>
+    <string name="radiobutton3">53 años o mas</string>
+    <string name="btn_nuevo">nuevo</string>
+    <string name="btn_aceptar">aceptar</string>
+    <string name="btn_volver_seguro">volver</string>
+    <string name="txt_costo">Costo total de poliza</string>
+
+</resources>
